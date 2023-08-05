@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/XinStore/static/css/main.0ab6962d.css",
+    "main.js": "/XinStore/static/js/main.e0eba8f6.js",
+    "static/js/787.810542d0.chunk.js": "/XinStore/static/js/787.810542d0.chunk.js",
+    "index.html": "/XinStore/index.html",
+    "main.0ab6962d.css.map": "/XinStore/static/css/main.0ab6962d.css.map",
+    "main.e0eba8f6.js.map": "/XinStore/static/js/main.e0eba8f6.js.map",
+    "787.810542d0.chunk.js.map": "/XinStore/static/js/787.810542d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab6962d.css",
+    "static/js/main.e0eba8f6.js"
+  ]
+}
